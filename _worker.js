@@ -27,7 +27,7 @@ let addressesapi = [
 	'https://addressesapi.090227.xyz/ip.164746.xyz',
 	'https://ipdb.api.030101.xyz/?type=bestcf&country=true',
 
-	'https://raw.githubusercontent.com/EIIEme/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
+	//'https://raw.githubusercontent.com/EIIEme/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
@@ -45,7 +45,7 @@ let addressesnotlsapi = [
 
 let DLS = 2;//速度下限
 let addressescsv = [
-	'https://raw.githubusercontent.com/EIIEme/WorkerVless2sub/main/addressescsv.csv', //iptest测速结果文件。
+	//'https://raw.githubusercontent.com/EIIEme/WorkerVless2sub/main/addressescsv.csv', //iptest测速结果文件。
 	'https://raw.githubusercontent.com/EIIEme/WorkerVless2sub/main/1.csv',
 	'https://raw.githubusercontent.com/EIIEme/WorkerVless2sub/main/2.csv',
 	'https://raw.githubusercontent.com/EIIEme/WorkerVless2sub/main/3.csv',
