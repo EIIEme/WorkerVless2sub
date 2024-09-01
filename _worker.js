@@ -46,6 +46,12 @@ let addressesnotlsapi = [
 let DLS = 2;//速度下限
 let addressescsv = [
 	'https://raw.githubusercontent.com/EIIEme/WorkerVless2sub/main/addressescsv.csv', //iptest测速结果文件。
+	'https://raw.githubusercontent.com/EIIEme/WorkerVless2sub/main/1.csv',
+	'https://raw.githubusercontent.com/EIIEme/WorkerVless2sub/main/2.csv',
+	'https://raw.githubusercontent.com/EIIEme/WorkerVless2sub/main/3.csv',
+	'https://raw.githubusercontent.com/EIIEme/WorkerVless2sub/main/4.csv',
+	'https://raw.githubusercontent.com/EIIEme/WorkerVless2sub/main/5.csv',
+	'https://raw.githubusercontent.com/EIIEme/WorkerVless2sub/main/6.csv',
 ];
 
 let subconverter = "SUBAPI.fxxk.dedyn.io"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
